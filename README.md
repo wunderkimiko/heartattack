@@ -1,2 +1,2 @@
 # heartattack
-Classification prediction and analysis on heart attacks
+Heart attack prediction and analysis - A classification problem
